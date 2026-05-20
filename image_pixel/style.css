@@ -1,0 +1,10 @@
+#pixelated {
+  height: 400px;
+  object-fit: cover;
+  image-rendering: pixelated;
+}
+
+#no_pixelated {
+  height: 400px;
+  object-fit: cover;
+}
