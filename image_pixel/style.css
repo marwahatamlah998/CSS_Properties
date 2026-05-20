@@ -8,3 +8,8 @@
   height: 400px;
   object-fit: cover;
 }
+
+.images{
+  display: flex;
+  gap: 10px;
+}
